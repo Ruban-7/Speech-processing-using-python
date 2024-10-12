@@ -18,7 +18,4 @@ I used python to find Energy and Zero Crossing Rate of a speech signal and visua
 * tkinter 
 * matplotlib.
 
-## Me
 
-Yughendaran
-[@Yughendaran]
